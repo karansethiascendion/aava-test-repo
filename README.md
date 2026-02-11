@@ -1,2 +1,1 @@
-# aava-test-repo
-testing AAVA upload ability
+test tool
