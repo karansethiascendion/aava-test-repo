@@ -1,0 +1,12 @@
+target/
+*.iml
+.idea/
+*.log
+*.class
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.db
+*.h2.db
